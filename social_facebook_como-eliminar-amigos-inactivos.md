@@ -1,4 +1,4 @@
-``# Facebook - Coo eliminar amigos inactivos
+# Facebook - Coo eliminar amigos inactivos
 
 Es interesante ir borrando las cuentas de amigos que ya se dieron de baja, sobre todo si hemos alcanzado el tope de 5000 amigos que nos permite FB.
 
