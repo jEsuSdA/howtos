@@ -165,7 +165,10 @@ La ventaja es que sólo aplica los cambios del último commit. Es decir, que no 
 [https://github.com/git-ftp/git-ftp](https://github.com/git-ftp/git-ftp)
 
 
-## Configurar git-ftp
+
+
+
+## CONFIGURAR GIT-FTP
 
 Copiar el archivo git-ftp a una ruta en el path.
 
@@ -184,6 +187,28 @@ Ahora iniciamos el push ftp
 y tras cada commit haremos
 
     git-ftp push
+
+
+
+## GIT-FTP-IGNORE
+
+Igual que con **.gitignore**, se pueden ignorar archivos y carpetas con git-ftp. Sólo hay que crear un archivo llamado **.git-ftp-ignore** en la raíz del proyecto (en el mismo nivel que la carpeta .git, no dentro de .git), editarlo y añadir las expresiones regulares pertinentes.
+
+Pej:
+
+
+    # Ignoramos los archivos BD para evitar que se sobreescriba la Base de datos
+    # de forma accidental
+    # En git-ftp se usa una nomenclatura distinta a .gitignore.
+    
+    \.db$
+    # \.db$ == *.db
+
+
+    # La siguiente expresión regular sirve para ignorar el archivo .htaccess de la carpeta html/blog:
+    # ^. html/blog/\.htaccess$   == /html/blog/.htacess
+    
+
 
 
 
