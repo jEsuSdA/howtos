@@ -1,5 +1,5 @@
 
-# Howto GIT
+# HOWTO GIT
 
 Muy resumido, claro...
 
@@ -110,7 +110,7 @@ salta atrás, DESCARTANDO los commit y el código descartados.
 	git reset --hard
 
 
-# github
+# GITHUB
 
 Github es un servicio que permite tener repositorios de proyectos compartidos de forma gratuita... siempre y cuando sean proyectos públicos y de software libre. Se pueden tenre proyectos privados, pero pagando.
 
@@ -153,6 +153,10 @@ Posteriormente tendrás que hacer una actualización de tu repositorio local des
 Para cuando hay conflicto porque olvidamos hacer pull antes de commit y push.
 
 	git rest --hard
+
+
+
+
 
 # GIT-FTP
 
@@ -212,7 +216,10 @@ Pej:
 
 
 
-# Hooks
+
+
+
+# HOOKS
 
 
 Los hooks son scripts que lanzamos tras hacer una acción de git.
