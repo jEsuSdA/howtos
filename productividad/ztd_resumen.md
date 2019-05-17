@@ -118,13 +118,13 @@ El resto de tareas las puedes asociar a Proyectos. Son tareas que has de hacer, 
 
 __Distribuye tus Big Rocks en tu planificación semanal__. Al comienzo debes limitarte a __1 o 2 al día, 4 a 6 a la semana__. Con el tiempo podrás ir incorporando más.
 
-Para cada día de la semana, define tus tres __TMI__ del día. Algunas de estas Treas ya serán  __Big Rocks__. Trata de hacerlas lo más pronto posible en tu día.
+Para cada día de la semana, define tus tres __Tareas Más Importantes del día (TMI)__ (_Most Important Tasks o MIT en inglés_). Algunas de estas Tareas ya serán  __Big Rocks__. Trata de hacerlas lo más pronto posible en tu día.
 
 Las __Big Rocks__ tienen máxima prioridad 1 en nuestra lista de tareas y son lo primero que debes enfocarte en hacer cada día.
 
-Al hacer tus __MITs___ realízalas una a una, no empieces la segunda si aún no terminas la primera. __Céntrate solo en una y termínala__, haz una pausa y continúa con la siguiente.
+Al hacer tus __TMIs___ realízalas una a una, no empieces la segunda si aún no terminas la primera. __Céntrate solo en una y termínala__, haz una pausa y continúa con la siguiente.
 
-__Cuando termines todas tus MITs repasa lo que has conseguido, descansa, felicítate o recompénsate con algo__, te sentirás satisfecho con el haber hecho todas tus tareas importantes del día.
+__Cuando termines todas tus TMIs repasa lo que has conseguido, descansa, felicítate o recompénsate con algo__, te sentirás satisfecho con el haber hecho todas tus tareas importantes del día.
 
 ---
 
@@ -336,7 +336,7 @@ Si consideras que ZTD puede resultarte complejo, puedes optar por una versión a
 
 2. __PROCESAR__: Procesa tus bandejas de entrada tomando decisiones rápidas al menos una vez al día.
 
-3. __PLANEAR__: Define las __MITs__ y __Big Rocks__ para cada semana y día, procurando hacerlas lo antes posible.
+3. __PLANEAR__: Define las __TMIs__ y __Big Rocks__ para cada semana y día, procurando hacerlas lo antes posible.
 
 4. __HACER__: Enfócate solo en una tarea a la vez y elimina todas las distracciones.
 
