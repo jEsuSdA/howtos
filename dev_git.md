@@ -1,5 +1,5 @@
 
-# Howto GIT
+# HOWTO GIT
 
 Muy resumido, claro...
 
@@ -110,7 +110,7 @@ salta atrás, DESCARTANDO los commit y el código descartados.
 	git reset --hard
 
 
-# github
+# GITHUB
 
 Github es un servicio que permite tener repositorios de proyectos compartidos de forma gratuita... siempre y cuando sean proyectos públicos y de software libre. Se pueden tenre proyectos privados, pero pagando.
 
@@ -154,6 +154,10 @@ Para cuando hay conflicto porque olvidamos hacer pull antes de commit y push.
 
 	git rest --hard
 
+
+
+
+
 # GIT-FTP
 
 Git-ftp es una utilidad (un script de bash) que permite montar un repositorio remoto vía ftp.
@@ -165,7 +169,10 @@ La ventaja es que sólo aplica los cambios del último commit. Es decir, que no 
 [https://github.com/git-ftp/git-ftp](https://github.com/git-ftp/git-ftp)
 
 
-## Configurar git-ftp
+
+
+
+## CONFIGURAR GIT-FTP
 
 Copiar el archivo git-ftp a una ruta en el path.
 
@@ -187,7 +194,32 @@ y tras cada commit haremos
 
 
 
-# Hooks
+## GIT-FTP-IGNORE
+
+Igual que con **.gitignore**, se pueden ignorar archivos y carpetas con git-ftp. Sólo hay que crear un archivo llamado **.git-ftp-ignore** en la raíz del proyecto (en el mismo nivel que la carpeta .git, no dentro de .git), editarlo y añadir las expresiones regulares pertinentes.
+
+Pej:
+
+
+    # Ignoramos los archivos BD para evitar que se sobreescriba la Base de datos
+    # de forma accidental
+    # En git-ftp se usa una nomenclatura distinta a .gitignore.
+    
+    \.db$
+    # \.db$ == *.db
+
+
+    # La siguiente expresión regular sirve para ignorar el archivo .htaccess de la carpeta html/blog:
+    # ^. html/blog/\.htaccess$   == /html/blog/.htacess
+    
+
+
+
+
+
+
+
+# HOOKS
 
 
 Los hooks son scripts que lanzamos tras hacer una acción de git.
