@@ -175,7 +175,7 @@ La técnica Pomodoro funciona aplicando 5 pasos:
 
 1. Se decide la tarea que se va a realizar.
 2. Se programa el pomodoro (generalmente un reloj con alarma) a un lapso de 25 minutos.
-3. Se trabaja -y esto es importante- de forma concentrada e intensiva durante esos 25minutos hasta que suena la alarma.
+3. Se trabaja -y esto es importante- de forma concentrada e intensiva durante esos 25 minutos hasta que suena la alarma.
 4. Se descansa durante 5 minutos (levantarse, darse un breve paseo, tomar un café... cualquier cosa sirve, excepto trabajar).
 5. Se inicia de nuevo el proceso. Cuando se alcanzan los cuatro pomodoros, se toma un descanso más prolongado, de 20 o 30 minutos.
 
