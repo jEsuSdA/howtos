@@ -153,6 +153,15 @@ De vez en cuando descansa, relájate, respira profundo, date un pequeño tiempo 
 
 Una muy buena estrategia es trabajar con bloques de tiempo, al estilo de la técnica Pomodoro, con uno que otro descanso entre medio de periodos ultra-productivos, puedes utilizar un simple cronómetro o una que otra aplicación especializada.
 
+
+#### Trucos
+
+- __Empieza__, la mitad de una tarea es empezarla.
+- __Recompénsate__ y no lo hagas hasta cumplir tus tareas.
+- __Entusiásmate__, piensa en lo que lograrás si terminas tu tarea y en las metas a conseguir. Sé positivo.
+- __Anuncia tus progresos__, publicita en tu blog y redes sociales la consecución de tus progresos, sobre todo de cara a ganar clientes.
+- __Agrupa pequeñas tareas__. A veces tenemos muchas pequeñas tareas que no son Big Rocks, pero han de hacerse. Una forma de hacerlas es agrupando algunas de ellas para dedicarles media hora y tratarlas como una única MIT.
+
 ---
 
 Recuerda:
@@ -217,6 +226,8 @@ Nunca dejes tus cosas sobre una superficie plana como una mesa, una cómoda o un
 
 __Cada cierto tiempo revisa todo, deshazte de lo que no necesites, guarda en su sitio lo que sea útil, búscale un lugar a lo que no lo tenga__.
 
+Dedica un tiempo periódicamente para revisar tus sistemas de almacenamiento.
+
 ---
 
 Recuerda:
@@ -236,7 +247,7 @@ Durante la Revisión Semanal, pon atención al __progreso de tus objetivos anual
 
 __Haz un repaso de todas tus notas y bandejas de entradas para asegurarte de que están vacías. Haz lo mismo con tu calendario__, pues puede que tengas que hacer alguna tarea como consecuencia de algo que tengas en tu calendario para las siguientes semanas.
 
-__Haz una revisión de todas tus listas__, marca aquellas que ya has terminado o que ya no sea necesaria.
+__Haz una revisión de todas tus listas__, marca aquellas que ya has terminado o que ya no sea necesaria. Una buena idea es hacerlo a primera y última hora del día.
 
 __Una vez al mes haz una revisión mucho más profunda, especialmente incluyendo tus objetivos__.
 
